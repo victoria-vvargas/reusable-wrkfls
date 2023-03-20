@@ -1,2 +1,2 @@
-# testing-actions
+# GitHub actions
 testing workflow 
